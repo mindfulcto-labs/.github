@@ -9,6 +9,19 @@ A small applied-AI lab publishing reference implementations of the patterns I ru
 - **LLM control plane** — DLP, PII redaction, prompt-injection defence, ephemeral pods, policy-as-code, observability, evals.
 - **Graph RAG and ontology-based retrieval** — three-layer semantic ontologies over public regulatory corpora (EUR-Lex AI Act, GDPR, DORA, NIS2).
 
+## Repositories
+
+Active development. New releases are reviewed before publish.
+
+| Repository | What it is |
+|---|---|
+| [aidlc](https://github.com/mindfulcto-labs/aidlc) | AI-driven development lifecycle playbooks |
+| [engineering-standards](https://github.com/mindfulcto-labs/engineering-standards) | Engineering standards and checklists |
+| [agentic-harness](https://github.com/mindfulcto-labs/agentic-harness) | A runtime harness pattern for agentic systems |
+| [compliance-as-code](https://github.com/mindfulcto-labs/compliance-as-code) | Compliance controls as code, with AIBOM |
+| [apiloom-ce](https://github.com/mindfulcto-labs/apiloom-ce) | Open-source API management platform |
+| [awesome-ai-governance](https://github.com/mindfulcto-labs/awesome-ai-governance) | Curated AI governance list |
+
 ## Principles
 
 - Every repo is a public reference implementation. **No employer IP, no client data, no proprietary architecture.** Synthetic and public datasets only.
