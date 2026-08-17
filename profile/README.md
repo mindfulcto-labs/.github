@@ -20,6 +20,10 @@ Active development. New releases are reviewed before publish.
 | [agentic-harness](https://github.com/mindfulcto-labs/agentic-harness) | A runtime harness pattern for agentic systems |
 | [compliance-as-code](https://github.com/mindfulcto-labs/compliance-as-code) | Compliance controls as code, with AIBOM |
 | [apiloom-ce](https://github.com/mindfulcto-labs/apiloom-ce) | Open-source API management platform |
+| [sre-copilot](https://github.com/mindfulcto-labs/sre-copilot) | Alert triage and runbook execution with approval gates and an audit trail |
+| [llm-gateway](https://github.com/mindfulcto-labs/llm-gateway) | Multi-provider LLM gateway: routing, fallback chains, budgets and usage accounting |
+| [confighub](https://github.com/mindfulcto-labs/confighub) | Schema-validated configuration service with environment overlays and audit history |
+| [agent-governance-kit](https://github.com/mindfulcto-labs/agent-governance-kit) | Audits agent run traces against their governance claims, mapped to EU AI Act and ISO/IEC 42001 |
 | [awesome-ai-governance](https://github.com/mindfulcto-labs/awesome-ai-governance) | Curated AI governance list |
 
 ## Principles
